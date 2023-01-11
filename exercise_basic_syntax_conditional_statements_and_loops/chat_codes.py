@@ -8,5 +8,5 @@ for i in range(number_of_messages):
     elif number < 88:
         print("GREAT!")
     elif number > 88:
-        print("Bye")
+        print("Bye.")
 
