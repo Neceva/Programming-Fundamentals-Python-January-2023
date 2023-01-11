@@ -1,5 +1,6 @@
-# Programming-Fundamentals-Python-January-2023
-This is a repository with solutions of problems in SoftUni Course: Programming Fundamentals with Python - January 2023.
+# Programming-Fundamentals-Python-SoftUni-January-2023
+In this repository there are solutions to tasks from programming Fundamentals course with Python of software academy of SoftUni University.
+https://softuni.bg/
 
 1. Number Definer
 Write a program that reads a floating-point number and:
